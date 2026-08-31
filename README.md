@@ -1,6 +1,6 @@
 # PWGen
 
-VS 2013 VB.NET WinForms password generator that builds random passwords and spells each character for reading aloud. The main form (caption Password Generator) sets length (3–128), how many passwords to create (1–5000), and a Strong checkbox that includes symbols. Create fills a Courier New list of each password plus its NATO-style spelling and copies the list to the clipboard. A later PasswordVB class library ports the same GeneratePassword / SpeltOutPassword / FixedSizeQueue logic; the WinForms project still references an external C# Password library that is not in this folder.
+VS 2013 VB.NET WinForms password generator that builds random passwords and spells each character for reading aloud. The main form (caption Password Generator) sets length (3-128), how many passwords to create (1-5000), and a Strong checkbox that includes symbols. Create fills a Courier New list of each password plus its NATO-style spelling and copies the list to the clipboard. A later PasswordVB class library ports the same GeneratePassword / SpeltOutPassword / FixedSizeQueue logic; the WinForms project still references an external C# Password library that is not in this folder.
 
 **Source last updated:** 2014-10-17  
 **Language:** VB.NET  
@@ -13,7 +13,7 @@ VS 2013 VB.NET WinForms password generator that builds random passwords and spel
 |---------|----------|------|---------|
 | `PWGen` | VB.NET | WinForms exe (.NET 3.5) | Password Generator form: length, count, Strong/symbols, clipboard copy |
 | `PasswordVB` | VB.NET | Class library (.NET 4.5) | GeneratePassword, NATO-style SpeltOutPassword, FixedSizeQueue |
-| `Password` (external) | C# | Class library | Referenced from `..\Clients\DTF\T2Import\Password` — not in this folder |
+| `Password` (external) | C# | Class library | Referenced from `..\Clients\DTF\T2Import\Password` - not in this folder |
 
 ## How to open
 
