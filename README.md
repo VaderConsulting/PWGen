@@ -19,6 +19,10 @@ VS 2013 VB.NET WinForms password generator that builds random passwords and spel
 
 Open `PWGen.sln` in Visual Studio Express 2013 for Windows Desktop (or later). The solution also expects the missing C# `Password` project; use a built `Password.dll` next to the exe, or retarget PWGen to `PasswordVB`, before a clean rebuild.
 
+## Requirements
+
+- Visual Studio 2013, .NET Framework 3.5, .NET Framework 4.5
+
 ## Attribution and provenance
 
 From Dave Robinson's Historical Dev archive (OneDrive folder `PWGen`). PWGen assembly metadata: title/product `PWGen`, company Vader Consulting, copyright © Vader Consulting 2013. PasswordVB still has Visual Studio template defaults (Microsoft 2014). No third-party packages in the tree.
