@@ -27,7 +27,7 @@ Open `PWGen.sln` in Visual Studio Express 2013 for Windows Desktop (or later). T
 
 ## Attribution and provenance
 
-From Dave Robinson's Historical Dev archive (OneDrive folder `PWGen`). PWGen assembly metadata: title/product `PWGen`, company Vader Consulting, copyright © Vader Consulting 2013. PasswordVB still has Visual Studio template defaults (Microsoft 2014). No third-party packages in the tree.
+From my Historical Dev archive (folder `PWGen`). PWGen assembly metadata: title/product `PWGen`, company Vader Consulting, copyright © Vader Consulting 2013. PasswordVB still has Visual Studio template defaults (Microsoft 2014). No third-party packages in the tree.
 
 ## License
 
